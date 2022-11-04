@@ -1,7 +1,7 @@
 # 你好！ 👋
 
 # 小提瓦特
-您有事么？
+部分项目在Archive后将在某个时间段转让仓库权给[@Sycamore0](https://github.com/Sycamore0)
 
 # 《健康工作忠告》 Healthy work advice
 **以下内容复制自Yazawazi**
